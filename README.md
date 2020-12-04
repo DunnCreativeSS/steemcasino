@@ -1,3 +1,4 @@
+If you found this repo useful, consider clicking the sponsor button near the top :) Sponsoring via GitHub is as little as $1/month and if you do not use banks or credit cards, there are crypto links included :)<br /><br />
 # What is SteemCasino?
 SteemCasino is the first Open-Source, based on the Steem Blockchain Casino, where users can compete against other users in: Coinflip, Poker, Blackjack, Jackpot, RPS, Roulette and many more!
 
